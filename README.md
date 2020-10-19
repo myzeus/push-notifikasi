@@ -1,1 +1,1 @@
-### push notification example
+### Basic push notification
